@@ -1,6 +1,8 @@
-<img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdzJ2emw0bTNiMXRkcTh6bHk3enh4bW40ZXdyMHJ4N3BrNzdjb2VwbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/juua9i2c2fA0AIp2iq/giphy.gif" height="300px" width ="300px">
+<div align="center">
+<img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdzJ2emw0bTNiMXRkcTh6bHk3enh4bW40ZXdyMHJ4N3BrNzdjb2VwbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/juua9i2c2fA0AIp2iq/giphy.gif" width="400px" />
+<br>
 
-<h4  align="center"> Hello everyone <img src="https://raw.githubusercontent.com/verma-anushka/verma-anushka/master/gifs/wave.gif" width="30px"></h4>
+# Hello,  everyone!  <img src="https://raw.githubusercontent.com/verma-anushka/verma-anushka/master/gifs/wave.gif" width="30px">
 
 
 <h3 align="center">A passionate frontend developer from Argentina</h3>
