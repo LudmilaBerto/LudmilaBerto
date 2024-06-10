@@ -10,13 +10,14 @@
 I am Ludmila. I am from Buenos Aires, Argentina. I am currently studying a Bachelor's Degree in Computer Science at UNQ and Full Stack Web Development at UTN🏫.  I love everything related to programming and doing web development. I am open to learning new technologies.
 
 ## 💻 Languages and Tools
-<img width="50" height="50" src="https://img.icons8.com/ios-filled/50/html-5--v2.png" alt="html-5--v2"/><img width="50" height="50" src="https://img.icons8.com/ios-filled/50/css3.png" alt="css3"/>
+![CSS3](https://img.shields.io/badge/-CSS-1572B6?style=flat&logo=css3&link=https://github.com/BRdhanani)
+![HTML5](https://img.shields.io/badge/-HTML-E34F26?style=flat&logo=html5&logoColor=white&link=https://github.com/BRdhanani)
 
 
 
 ## 👋 About me
 - 👨🏽‍💻I’m currently working on improving my techskill
-- 🌱 I'm currently learning 
+- 🌱 I'm currently learning javascript
 - 💬 Ask me about anything, I am happy to help
 - 🖼️ Portfolio site: [Portfolio](https://ludmilaberto.github.io/Pagina-Tipo-Portfolio/)
 
