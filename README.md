@@ -14,6 +14,10 @@ I am Ludmila. I am from Buenos Aires, Argentina. I am currently studying a Bache
 ![HTML5](https://img.shields.io/badge/-HTML-E34F26?style=flat&logo=html5&logoColor=white&link=https://github.com/BRdhanani)
 
 
+![Git](https://camo.githubusercontent.com/73b945cf4e964d7f10a4d8ebf0cdcdb710f350c86dfdae3ba4f8d65105aa5efc/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4769742d4630353033323f7374796c653d666c61742d737175617265266c6f676f3d476974266c6f676f436f6c6f723d7768697465)
+![GitHub](https://camo.githubusercontent.com/bb2afe09fad1cc5aff2c77fda1c4baac343806b13f938c9b9c466f99cf91d636/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4769744875622d3138313731373f7374796c653d666c61742d737175617265266c6f676f3d476974487562266c6f676f436f6c6f723d7768697465)
+
+
 
 ## 👋 About me
 - 👨🏽‍💻I’m currently working on improving my techskill
