@@ -14,8 +14,10 @@ I am Ludmila. I am from Buenos Aires, Argentina. I am currently studying a Bache
 
 
 
-## 👋 Reach out to me 
-- 💬 Ask me about anything.
+## 👋 About me
+- 👨🏽‍💻I’m currently working on improving my techskill
+- 🌱 I'm currently learning 
+- 💬 Ask me about anything, I am happy to help
 - 🖼️ Portfolio site: [Portfolio](https://ludmilaberto.github.io/Pagina-Tipo-Portfolio/)
 
 
