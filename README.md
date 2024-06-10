@@ -20,7 +20,7 @@ I am Ludmila. I am from Buenos Aires, Argentina. I am currently studying a Bache
 
 
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ludmilaberto&count_private=true&theme=dracula"><img src="https://github-readme-stats.vercel.app/api?username=ludmilaberto&show_icons=true&theme=dracula&line_height=32">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ludmilaberto&count_private=true&theme=dracula"><img src="https://github-readme-stats.vercel.app/api?username=ludmilaberto&show_icons=true&theme=dracula&line_height=20">
 
  
 
