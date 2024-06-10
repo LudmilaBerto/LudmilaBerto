@@ -1,13 +1,21 @@
 <div align="center">
-<img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdzJ2emw0bTNiMXRkcTh6bHk3enh4bW40ZXdyMHJ4N3BrNzdjb2VwbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/juua9i2c2fA0AIp2iq/giphy.gif" width="400px" />
+
+ # Hello,  everyone!  <img src="https://raw.githubusercontent.com/verma-anushka/verma-anushka/master/gifs/wave.gif" width="30px">
+
+<h3 align="center">A passionate frontend developer from Argentina</h3><img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdzJ2emw0bTNiMXRkcTh6bHk3enh4bW40ZXdyMHJ4N3BrNzdjb2VwbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/juua9i2c2fA0AIp2iq/giphy.gif" width="400px" />
 <br>
 
-# Hello,  everyone!  <img src="https://raw.githubusercontent.com/verma-anushka/verma-anushka/master/gifs/wave.gif" width="30px">
 
 
-<h3 align="center">A passionate frontend developer from Argentina</h3>
+<div align="left">
 
- 🌱 I’m currently learning **Full Stack Web Development**
+ ### ✔️ I'm currently learning
+- Full stack web development
+- Computer science
+ 
+</div>
+
+
 
 #### 📫You can find me on:
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ludmila-berto/)](https://www.linkedin.com/in/ludmila-berto/)
