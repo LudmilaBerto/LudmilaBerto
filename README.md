@@ -10,14 +10,13 @@
 I am Ludmila. I am from Buenos Aires, Argentina. I am currently studying a Bachelor's Degree in Computer Science at UNQ and Full Stack Web Development at UTN🏫.  I love everything related to programming and doing web development. I am open to learning new technologies.
 
 ## 💻 Languages and Tools
-*
+<img width="50" height="50" src="https://img.icons8.com/ios-filled/50/html-5--v2.png" alt="html-5--v2"/><img width="50" height="50" src="https://img.icons8.com/ios-filled/50/css3.png" alt="css3"/>
 
 
 
 ## 👋 Reach out to me 
 - 💬 Ask me about anything.
 - 🖼️ Portfolio site: [Portfolio](https://)
-- 💎 Fun fact: 
 
 
 
