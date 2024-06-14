@@ -21,7 +21,7 @@ I am Ludmila. I am from Buenos Aires, Argentina. I am currently studying a Bache
 
 ## 👋 About me
 - 👨🏽‍💻I’m currently working on improving my techskill
-- 🌱 I'm currently learning javascript
+- 🌱 I'm currently learning JavaScript
 - 💬 Ask me about anything, I am happy to help
 - 🖼️ Portfolio site: [Portfolio](https://ludmilaberto.github.io/Pagina-Tipo-Portfolio/)
 
