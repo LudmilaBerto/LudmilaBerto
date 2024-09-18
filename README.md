@@ -29,7 +29,7 @@ I am Ludmila. I am from Buenos Aires, Argentina. I am currently studying a Bache
 - 👨🏽‍💻I’m currently working on improving my techskill
 - 🌱 I'm currently learning Node Js
 - 💬 Ask me about anything, I am happy to help
-- 🖼️ Portfolio site: [Portfolio](https://trabajo-final-dos-ludmilaberto-ludmila-bertos-projects.vercel.app/)
+- 🖼️ Portfolio site: [Portfolio](https://trabajo-final-41en7n76n-ludmila-bertos-projects.vercel.app/)
 
 
 
