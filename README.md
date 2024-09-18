@@ -13,17 +13,23 @@ I am Ludmila. I am from Buenos Aires, Argentina. I am currently studying a Bache
 ![CSS3](https://img.shields.io/badge/-CSS-1572B6?style=flat&logo=css3&link=https://github.com/BRdhanani)
 ![HTML5](https://img.shields.io/badge/-HTML-E34F26?style=flat&logo=html5&logoColor=white&link=https://github.com/BRdhanani)
 ![JavaScript](https://img.shields.io/badge/-javascript-yellow?logo=javascript)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&link=https://getbootstrap.com/)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white&link=https://nodejs.org/)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white&link=https://www.mongodb.com/)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black&link=https://reactjs.org/)
+![Chakra UI](https://img.shields.io/badge/-Chakra%20UI-319795?style=flat&logo=chakra-ui&logoColor=white&link=https://chakra-ui.com/)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white&link=https://www.mysql.com/)
+[![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
+[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/LudmilaBerto)
 
-![Git](https://camo.githubusercontent.com/73b945cf4e964d7f10a4d8ebf0cdcdb710f350c86dfdae3ba4f8d65105aa5efc/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4769742d4630353033323f7374796c653d666c61742d737175617265266c6f676f3d476974266c6f676f436f6c6f723d7768697465)
-![GitHub](https://camo.githubusercontent.com/bb2afe09fad1cc5aff2c77fda1c4baac343806b13f938c9b9c466f99cf91d636/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4769744875622d3138313731373f7374796c653d666c61742d737175617265266c6f676f3d476974487562266c6f676f436f6c6f723d7768697465)
 
 
 
 ## 👋 About me
 - 👨🏽‍💻I’m currently working on improving my techskill
-- 🌱 I'm currently learning React
+- 🌱 I'm currently learning Node Js
 - 💬 Ask me about anything, I am happy to help
-- 🖼️ Portfolio site: [Portfolio](https://ludmilaberto.github.io/Pagina-Tipo-Portfolio/)
+- 🖼️ Portfolio site: [Portfolio](https://trabajo-final-dos-ludmilaberto-ludmila-bertos-projects.vercel.app/)
 
 
 
